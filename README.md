@@ -6,6 +6,9 @@
 
 This project analyzes bank marketing campaign data to understand the marketing funnel, identify conversion drop-offs, evaluate channel performance, and find opportunities to improve lead-to-customer conversion.
 
+## Project Dashboard
+
+![Task 3 Dashboard](task3.jpeg)
 ## Dataset
 
 The analysis uses the **Bank Marketing Dataset (`bank-full.csv`)**, which contains customer information, campaign details, contact methods, and subscription outcomes.
